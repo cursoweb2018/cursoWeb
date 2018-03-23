@@ -6,12 +6,12 @@
   </head>
   <body>
     <nav> <a href="https://rawgit.com/cursoweb2018/cursoWeb/master/index.html">
-        Index </a> <a href="https://rawgit.com/cursoweb2018/cursoWeb/master/nuestrosServicios.html">
+        Index </a> <a href="https://rawgit.com/cursoweb2018/cursoWeb/master/ejerciciosTema2/nuestrosServicios.html">
         Servicios </a> <a href="https://github.com/cursoweb2018/cursoWeb"> Mi
         repositorio </a> <a href="mailto:pablo.diez@ua.es"> Email </a> </nav>
     <p> Nombre del autor: Pablo Díez Espinosa<br>
     </p>
-    <p> Foto del autor: </p>
+    <p> Foto del autor: <imgsrc=“imagenes/pablo.jpg” /></p>
     <p> Nombre de a empresa: FOTOCOPISA </p>
     <p> Actividad de la empresa: Servicios de papelería y copistería</p>
     <p> Logotipo: </p>
