@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
     <title>Nuestros Servicios</title>
   </head>
   <body>
@@ -216,5 +217,6 @@
       feugiat sed. Nam tincidunt justo ut sodales condimentum. Ut in porta
       lectus, non convallis metus. </p>
     <a name="fin"></a> <a href="#inicio"> Inicio de la página </a>
-  </body>
-</html>
+  
+
+</body></html>
